@@ -62,7 +62,7 @@
 </ul>
 <div class="hint-container important">
 <p class="hint-container-title">重要</p>
-<p>搜索是程序员最常干的事情，希望你在感谢互联网的同时，也能够学会正确使用搜索引擎</p>
+<p>让搜索成为你最常干的事</p>
 </div>
 <h3 id="使用浏览器插件" tabindex="-1"><a class="header-anchor" href="#使用浏览器插件"><span>使用浏览器插件</span></a></h3>
 <ul>

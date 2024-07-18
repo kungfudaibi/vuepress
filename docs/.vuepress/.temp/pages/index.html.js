@@ -1,5 +1,5 @@
 import comp from "/home/arch/vue/op/docs/.vuepress/.temp/pages/index.html.vue"
-const data = JSON.parse("{\"path\":\"/\",\"title\":\"Home\",\"lang\":\"zh-CN\",\"frontmatter\":{\"home\":true,\"title\":\"Home\",\"heroImage\":\"/image/logo.png\",\"actions\":[{\"text\":\"Get Start\",\"link\":\"/foreword.md\",\"type\":\"primary\"}],\"footer\":\"GFDL Licensed\"},\"headers\":[],\"git\":{},\"filePathRelative\":\"README.md\"}")
+const data = JSON.parse("{\"path\":\"/\",\"title\":\"Home\",\"lang\":\"zh-CN\",\"frontmatter\":{\"home\":true,\"title\":\"Home\",\"heroImage\":\"/image/logo.png\",\"actions\":[{\"text\":\"Get Start\",\"link\":\"/foreword.md\",\"type\":\"primary\"}],\"footer\":\"GFDL Licensed\"},\"headers\":[],\"git\":{\"updatedTime\":1721308867000,\"contributors\":[{\"name\":\"kungfudaibi\",\"email\":\"1534779821@qq.com\",\"commits\":1}]},\"filePathRelative\":\"README.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

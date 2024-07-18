@@ -31,10 +31,10 @@
 <h3 id="vscode" tabindex="-1"><a class="header-anchor" href="#vscode"><span>vscode</span></a></h3>
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>
-<p>你可以在vscode中编写任何代码，只需要下载对应的插件，关于vscode的详细使用或许你可以上b站看看，或者在<a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer">这里</a>查看官方文档,有了vscode,你可以不下载其他的IDE</p>
+<p>你可以在vscode中编写任何代码，只需要下载对应的插件，关于vscode的详细使用或许你可以上b站看看，或者在<a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer">这里</a>查看官方文档,有了vscode,你可以不下载其他的IDE.</p>
 <div class="hint-container note">
 <p class="hint-container-title">注</p>
-<p>使用vscode运行编译型语言需要安装对应的编译器，比如说C/C++需要安装mingw,java需要安装jdk，相比较来说不如其他的IDE方便</p>
+<p>使用vscode运行编译型语言需要安装对应的编译器，比如说C/C++需要安装mingw,java需要安装jdk，相比较来说不如其他的IDE方便，我个人使用的配置是vscode+wsl,远程连接到wsl的linux子系统编译运行代码，你可以参考<RouteLink to="/linux.html">linux之旅</RouteLink>来更多地了解linux</p>
 </div>
 </div>
 <div class="hint-container warning">
@@ -73,7 +73,7 @@
 <p class="hint-container-title">提示</p>
 <p>还记得么？你可以使用JetBrains学生包免费使用这些IDE</p>
 </div>
-<h2 id="自学文档" tabindex="-1"><a class="header-anchor" href="#自学文档"><span>自学文档</span></a></h2>
+<h2 id="自学资源" tabindex="-1"><a class="header-anchor" href="#自学资源"><span>自学资源</span></a></h2>
 <ul>
 <li>
 <p><a href="https://learn-cpp.guyutongxue.site/" target="_blank" rel="noopener noreferrer">现代c++教程</a></p>
@@ -97,6 +97,25 @@
 <p>如果你已经解决了魔法问题而被英文困扰的话，可以使用<a href="https://www.deepl.com/translator" target="_blank" rel="noopener noreferrer">DeepL</a>翻译，还记得在一开始提到的浏览器插件么？它也有插件版本。</p>
 </div>
 </div>
+<ul>
+<li><a href="https://ysyx.oscc.cc/docs/" target="_blank" rel="noopener noreferrer">一生一芯</a></li>
+</ul>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<p>这个项目教你从零开始造一个cpu，如果你对计算机的底层不感兴趣，可以只参考预学习部分，里面汇集了一些相当好的资源，尤其是学习c语言的</p>
+</div>
+<h2 id="一些建议" tabindex="-1"><a class="header-anchor" href="#一些建议"><span>一些建议</span></a></h2>
+<ul>
+<li>
+<p>talk is cheap,show me the code</p>
+</li>
+<li>
+<p>你可以在github上找到很多优质的项目，你可以学习他们的代码，学习他们的思路，甚至可以参与到他们的项目中,你可以在github的explore中找到最近全球的程序员都在关注哪些项目</p>
+</li>
+<li>
+<p>安排好你的时间，投入足够的注意力，你能得到超乎你想象的收获</p>
+</li>
+</ul>
 </div></template>
 
 
