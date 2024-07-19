@@ -2,10 +2,10 @@ export const redirects = JSON.parse("{}")
 
 export const routes = Object.fromEntries([
   ["/AI.html", { loader: () => import(/* webpackChunkName: "AI.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/AI.html.js"), meta: {"title":""} }],
-  ["/HPC.html", { loader: () => import(/* webpackChunkName: "HPC.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/HPC.html.js"), meta: {"title":""} }],
+  ["/HPC.html", { loader: () => import(/* webpackChunkName: "HPC.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/HPC.html.js"), meta: {"title":"HPC"} }],
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"Home"} }],
   ["/about.html", { loader: () => import(/* webpackChunkName: "about.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/about.html.js"), meta: {"title":""} }],
-  ["/algorithm.html", { loader: () => import(/* webpackChunkName: "algorithm.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/algorithm.html.js"), meta: {"title":""} }],
+  ["/algorithm.html", { loader: () => import(/* webpackChunkName: "algorithm.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/algorithm.html.js"), meta: {"title":"算法"} }],
   ["/foreword.html", { loader: () => import(/* webpackChunkName: "foreword.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/foreword.html.js"), meta: {"title":"前言"} }],
   ["/get-started.html", { loader: () => import(/* webpackChunkName: "get-started.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/get-started.html.js"), meta: {"title":"Get Started"} }],
   ["/guide.html", { loader: () => import(/* webpackChunkName: "guide.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/guide.html.js"), meta: {"title":"自学指南"} }],

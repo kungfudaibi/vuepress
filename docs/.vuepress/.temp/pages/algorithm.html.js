@@ -1,5 +1,5 @@
 import comp from "/home/arch/vue/op/docs/.vuepress/.temp/pages/algorithm.html.vue"
-const data = JSON.parse("{\"path\":\"/algorithm.html\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1721308867000,\"contributors\":[{\"name\":\"kungfudaibi\",\"email\":\"1534779821@qq.com\",\"commits\":1}]},\"filePathRelative\":\"algorithm.md\"}")
+const data = JSON.parse("{\"path\":\"/algorithm.html\",\"title\":\"算法\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1721308867000,\"contributors\":[{\"name\":\"kungfudaibi\",\"email\":\"1534779821@qq.com\",\"commits\":1}]},\"filePathRelative\":\"algorithm.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
