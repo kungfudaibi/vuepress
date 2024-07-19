@@ -4,8 +4,28 @@
 <h1 id="算法" tabindex="-1"><a class="header-anchor" href="#算法"><span>算法</span></a></h1>
 <div class="hint-container note">
 <p class="hint-container-title">注</p>
-<p>开始之前，我们先澄清一个概念，算法所指的对象十分宽泛，像贝叶斯，SVM，CNN以及其他的各类型的神经网络等等这些概念都是算法的一部分，往往公司招聘的算法工程师更多的是指人工智能方向的算法工程师，而我们这里所说的算法是指数据结构与算法,人工只能方向在<RouteLink to="/AI.html">人工智能</RouteLink>里介绍</p>
+<p>开始之前，我们先澄清一个概念，算法所指的对象十分宽泛，像贝叶斯，SVM，CNN以及其他的各类型的神经网络等等这些概念都是算法的一部分，往往公司招聘的算法工程师更多的是指人工智能方向的算法工程师，而我们这里所说的算法是指数据结构与算法,人工智能方向在<RouteLink to="/AI.html">人工智能</RouteLink>里介绍</p>
 </div>
+<h2 id="算法入门" tabindex="-1"><a class="header-anchor" href="#算法入门"><span>算法入门</span></a></h2>
+<ul>
+<li><a href="https://www.hello-algo.com/" target="_blank" rel="noopener noreferrer">Hello,算法</a></li>
+<li><a href="https://book.douban.com/subject/25894685/" target="_blank" rel="noopener noreferrer">啊哈！算法</a></li>
+</ul>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<p>如果对自己天赋有自信，可以试着直接啃算法导论，如果想查某个算法的原理，可以看<a href="https://oi-wiki.org/" target="_blank" rel="noopener noreferrer">OI Wiki</a></p>
+</div>
+<h2 id="算法进阶" tabindex="-1"><a class="header-anchor" href="#算法进阶"><span>算法进阶</span></a></h2>
+<p>学算法光说不练是不行的，一定要多做题</p>
+<ul>
+<li><a href="https://www.nowcoder.com/" target="_blank" rel="noopener noreferrer">牛客网</a></li>
+<li><a href="https://www.luogu.com.cn/" target="_blank" rel="noopener noreferrer">洛谷</a></li>
+<li><a href="https://codeforces.com/" target="_blank" rel="noopener noreferrer">Codeforces</a></li>
+<li><a href="https://leetcode-cn.com/" target="_blank" rel="noopener noreferrer">LeetCode</a></li>
+</ul>
+<h2 id="山西大学算法队" tabindex="-1"><a class="header-anchor" href="#山西大学算法队"><span>山西大学算法队</span></a></h2>
+<h3 id="从无到有的建立" tabindex="-1"><a class="header-anchor" href="#从无到有的建立"><span>从无到有的建立</span></a></h3>
+<h3 id="日常训练" tabindex="-1"><a class="header-anchor" href="#日常训练"><span>日常训练</span></a></h3>
 </div></template>
 
 

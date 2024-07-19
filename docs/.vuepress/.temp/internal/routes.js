@@ -10,7 +10,7 @@ export const routes = Object.fromEntries([
   ["/get-started.html", { loader: () => import(/* webpackChunkName: "get-started.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/get-started.html.js"), meta: {"title":"Get Started"} }],
   ["/guide.html", { loader: () => import(/* webpackChunkName: "guide.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/guide.html.js"), meta: {"title":"自学指南"} }],
   ["/linux.html", { loader: () => import(/* webpackChunkName: "linux.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/linux.html.js"), meta: {"title":"Linux之旅"} }],
-  ["/security.html", { loader: () => import(/* webpackChunkName: "security.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/security.html.js"), meta: {"title":""} }],
+  ["/security.html", { loader: () => import(/* webpackChunkName: "security.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/security.html.js"), meta: {"title":"网络安全"} }],
   ["/start.html", { loader: () => import(/* webpackChunkName: "start.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/start.html.js"), meta: {"title":"开始"} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"/home/arch/vue/op/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
 ]);
