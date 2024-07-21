@@ -22,8 +22,8 @@ export default defineUserConfig({
       { text: '算法', link: '/algorithm.md'},
       { text: '网络安全',link: '/security.md'},
       { text: '人工智能', link: '/AI.md'},
-      { text: '关于我们', link: '/about.md'},
-      { text: 'GitHub', link: '/'},
+      { text: '关于本项目', link: '/about.md'},
+      { text: 'GitHub', link: ''},
     ],
   }),
     plugins: [

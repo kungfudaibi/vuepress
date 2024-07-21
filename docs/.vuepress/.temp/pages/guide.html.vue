@@ -24,7 +24,7 @@
 </ul>
 <div class="hint-container note">
 <p class="hint-container-title">注</p>
-<p>这几句话只是想让你明白写代码到底是怎么个事，如果你第一次接触感觉不好理解也没关系，你以后有的是时间和它们打交道，同时你也要养成遇到不了解概念查阅资料的习惯，这是程序员的基本功</p>
+<p>这几句话只是想让你明白写代码到底是怎么个事，如果你第一次接触感觉不好理解也没关系，你以后有的是时间和它们打交道，同时你也要养成遇到新概念查阅资料的习惯，这是程序员的基本功</p>
 </div>
 <h2 id="搭建好开发环境" tabindex="-1"><a class="header-anchor" href="#搭建好开发环境"><span>搭建好开发环境</span></a></h2>
 <p>工欲善其事必先利其器，搭建好开发环境是你学习编程的第一步，遗憾的是学校的教材根本不提，某些老师也不说，可能会对你的学习造成很大困惑，当然你需要自行搜索并搭建，这里给你一些参考（默认在windows系统下）：</p>
@@ -87,7 +87,7 @@
 </ul>
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>
-<p>建议详细阅读这份由北大学生维护的wiki，无需多言</p>
+<p>建议详细阅读这份由北大学生维护的wiki</p>
 </div>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
